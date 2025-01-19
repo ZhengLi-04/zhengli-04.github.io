@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zheng Li's Page"
 title_separator          : "-"
-name                     : &name "Zheng Li (李峥)"
+name                     : &name "ZhengLi"
 description              : &description "personal description"
 url                      : https://zhengli-04.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
