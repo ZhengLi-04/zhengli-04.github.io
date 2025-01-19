@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zheng Li's Page"
 title_separator          : "-"
-name                     : &name "ZhengLi"
+name                     : &name "Zheng Li"
 description              : &description "personal description"
 url                      : https://zhengli-04.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile_darkblue.png"
   name             : "Zheng Li (李峥)"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student"
+  bio              : "Hi! I am an undergraduate student from College of Biomedical Engineering & Instrument Science, Zhejiang University."
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : # URL
