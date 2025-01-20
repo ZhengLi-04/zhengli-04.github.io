@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zheng Li's page"
-description              : "Welcome to Zheng Li's academic homepage. "
+description              : "Hi! I'm an undergraduate student from College of Biomedical Engineering & Instrument Science, Zhejiang University."
 repository               : "ZhengLi-04/zhengli-04.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hHP1s7EAAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "zheng_li@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0000-2384-4693"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
