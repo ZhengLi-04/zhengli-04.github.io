@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 Binhan Zhao<sup>1</sup>, **Zheng Li**<sup>1</sup>, Lan Zheng<sup>1</sup>, Zhichao Ye, Yuyang Yuan, Shanshan Zhang, Bo Liang<sup>\*</sup>, Tianyu Li<sup>\*</sup>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Highlights**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hHP1s7EAAAAJ&citation_for_view=hHP1s7EAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='hHP1s7EAAAAJ:u5HHmVD_uO8C'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
