@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <a href="https://www.sciencedirect.com/science/article/pii/S1001841724003292"><span style="font-size: 1.1em;">Recent progress in the biomedical application of PEDOT:PSS hydrogels</span></a>
 
-October 2024 *Chinese Chemical Letters* 35(10):109810
+<span style="color: gray; font-size: 0.9em">October 2024, <em>Chinese Chemical Letters</em> 35(10):109810</span>
 
 Binhan Zhao<sup>1</sup>, **Zheng Li**<sup>1</sup>, Lan Zheng<sup>1</sup>, Zhichao Ye, Yuyang Yuan, Shanshan Zhang, Bo Liang<sup>&#8224;</sup>, Tianyu Li<sup>&#8224;</sup>
 
