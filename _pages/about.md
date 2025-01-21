@@ -30,28 +30,25 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Chin Chem Lett 2024</div>
-        <img src='images/cclet24109810.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    <a href="https://www.sciencedirect.com/science/article/pii/S1001841724003292"><span style="font-size: 1.1em;">Recent progress in the biomedical application of PEDOT:PSS hydrogels</span></a>
-  
-    October 2024, *Chinese Chemical Letters* 35(10):109810
-  
-    Binhan Zhao<sup>1</sup>, **Zheng Li**<sup>1</sup>, Lan Zheng<sup>1</sup>, Zhichao Ye, Yuyang Yuan, Shanshan Zhang, Bo Liang<sup>&#8224;</sup>, Tianyu Li<sup>&#8224;</sup>  
-  
-    [**Highlights**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hHP1s7EAAAAJ&citation_for_view=hHP1s7EAAAAJ:u5HHmVD_uO8C) 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chin Chem Lett 2024</div><img src='images/cclet24109810.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-    <strong><span class='show_paper_citations' data='hHP1s7EAAAAJ:u5HHmVD_uO8C'></span></strong>
-  
-    - Test
-  </div>
+<!-- [Recent progress in the biomedical application of PEDOT:PSS hydrogels](publications/cclet21109810.pdf) -->
+
+<a href="https://www.sciencedirect.com/science/article/pii/S1001841724003292"><span style="font-size: 1.1em;">Recent progress in the biomedical application of PEDOT:PSS hydrogels</span></a>
+
+October 2024 *Chinese Chemical Letters* 35(10):109810
+
+Binhan Zhao<sup>1</sup>, **Zheng Li**<sup>1</sup>, Lan Zheng<sup>1</sup>, Zhichao Ye, Yuyang Yuan, Shanshan Zhang, Bo Liang<sup>&#8224;</sup>, Tianyu Li<sup>&#8224;</sup>
+
+
+[**Highlights**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hHP1s7EAAAAJ&citation_for_view=hHP1s7EAAAAJ:u5HHmVD_uO8C) 
+<strong><span class='show_paper_citations' data='hHP1s7EAAAAJ:u5HHmVD_uO8C'></span></strong>
+- Test
+</div>
 </div>
 
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
