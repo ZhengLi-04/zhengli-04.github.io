@@ -49,41 +49,42 @@ Binhan Zhao<sup>1</sup>, **Zheng Li**<sup>1</sup>, Lan Zheng<sup>1</sup>, Zhicha
 </div>
 
 <div class='paper-box'>
-    <!-- 左侧图片区 -->
+    <!-- 图片部分 -->
     <div class='paper-box-image'>
         <div>
             <div class="badge">Chin Chem Lett 2024</div>
             <img src='images/cclet24109810.png' alt="sym" width="100%">
         </div>
     </div>
-    
-    <!-- 右侧文字区 -->
+
+    <!-- 文字部分 -->
     <div class='paper-box-text' markdown="1">
-        <!-- 文章标题 -->
+        <!-- 标题 -->
         <a href="https://www.sciencedirect.com/science/article/pii/S1001841724003292">
-            <span style="font-size: 1.3em; font-weight: bold; line-height: 1.5;"> 
+            <span style="font-size: 1.2em; font-weight: bold;"> 
                 Recent Progress in the Biomedical Application of PEDOT:PSS Hydrogels
             </span>
         </a>
+
         <!-- 发表信息 -->
-        <p style="color: gray; margin-top: 8px;">
-            <i>Chinese Chemical Letters</i>, October 2024, <b>35(10):109810</b>
+        <p style="margin: 8px 0; color: gray;">
+            October 2024, <i>Chinese Chemical Letters</i>, 35(10):109810
         </p>
-        <!-- 作者信息 -->
-        <p style="margin-top: 5px; line-height: 1.5;">
-            Binhan Zhao<sup>1</sup>, 
-            <b>Zheng Li</b><sup>1</sup>, 
-            Lan Zheng<sup>1</sup>, 
-            Zhichao Ye, 
-            Yuyang Yuan, 
-            Shanshan Zhang, 
-            Bo Liang<sup>&#8224;</sup>, 
-            Tianyu Li<sup>&#8224;</sup>
+
+        <!-- 作者列表 -->
+        <p style="line-height: 1.6; margin-bottom: 10px;">
+            Binhan Zhao<sup>1</sup>, <b>Zheng Li</b><sup>1</sup>, Lan Zheng<sup>1</sup>, 
+            Zhichao Ye, Yuyang Yuan, Shanshan Zhang, 
+            Bo Liang<sup>&#8224;</sup>, Tianyu Li<sup>&#8224;</sup>
         </p>
-        <!-- Highlights -->
-        <div style="margin-top: 10px; padding: 10px; background-color: #f9f9f9; border-left: 4px solid #4CAF50;">
-            <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hHP1s7EAAAAJ&citation_for_view=hHP1s7EAAAAJ:u5HHmVD_uO8C" style="color: #4CAF50; font-weight: bold;">Highlights</a>
-            <ul style="margin-top: 5px; padding-left: 20px;">
+
+        <!-- Highlights 区域 -->
+        <div style="padding: 10px; background-color: #f9f9f9; border-left: 4px solid #4CAF50;">
+            <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hHP1s7EAAAAJ&citation_for_view=hHP1s7EAAAAJ:u5HHmVD_uO8C" 
+                style="color: #4CAF50; font-weight: bold;">
+                Highlights
+            </a>
+            <ul style="margin: 5px 0 0 20px; padding: 0; list-style-type: disc;">
                 <li>Comprehensive review of PEDOT:PSS hydrogel applications in biomedicine.</li>
                 <li>Insights into electrical and mechanical properties enhancement.</li>
                 <li>Future research directions outlined with practical applications.</li>
