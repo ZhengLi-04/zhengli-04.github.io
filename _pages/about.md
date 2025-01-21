@@ -37,15 +37,61 @@ My research interest includes neural machine translation and computer vision. I 
 
 <a href="https://www.sciencedirect.com/science/article/pii/S1001841724003292"><span style="font-size: 1.1em;">Recent progress in the biomedical application of PEDOT:PSS hydrogels</span></a>
 
+October 2024 *Chinese Chemical Letters* 35(10):109810
+
 Binhan Zhao<sup>1</sup>, **Zheng Li**<sup>1</sup>, Lan Zheng<sup>1</sup>, Zhichao Ye, Yuyang Yuan, Shanshan Zhang, Bo Liang<sup>&#8224;</sup>, Tianyu Li<sup>&#8224;</sup>
 
-October 2024 *Chinese Chemical Letters* 35(10):109810
 
 [**Highlights**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hHP1s7EAAAAJ&citation_for_view=hHP1s7EAAAAJ:u5HHmVD_uO8C) 
 <strong><span class='show_paper_citations' data='hHP1s7EAAAAJ:u5HHmVD_uO8C'></span></strong>
 - Test
 </div>
 </div>
+
+<div class='paper-box'>
+    <!-- 左侧图片区 -->
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Chin Chem Lett 2024</div>
+            <img src='images/cclet24109810.png' alt="sym" width="100%">
+        </div>
+    </div>
+    
+    <!-- 右侧文字区 -->
+    <div class='paper-box-text' markdown="1">
+        <!-- 文章标题 -->
+        <a href="https://www.sciencedirect.com/science/article/pii/S1001841724003292">
+            <span style="font-size: 1.3em; font-weight: bold; line-height: 1.5;"> 
+                Recent Progress in the Biomedical Application of PEDOT:PSS Hydrogels
+            </span>
+        </a>
+        <!-- 发表信息 -->
+        <p style="color: gray; margin-top: 8px;">
+            <i>Chinese Chemical Letters</i>, October 2024, <b>35(10):109810</b>
+        </p>
+        <!-- 作者信息 -->
+        <p style="margin-top: 5px; line-height: 1.5;">
+            Binhan Zhao<sup>1</sup>, 
+            <b>Zheng Li</b><sup>1</sup>, 
+            Lan Zheng<sup>1</sup>, 
+            Zhichao Ye, 
+            Yuyang Yuan, 
+            Shanshan Zhang, 
+            Bo Liang<sup>&#8224;</sup>, 
+            Tianyu Li<sup>&#8224;</sup>
+        </p>
+        <!-- Highlights -->
+        <div style="margin-top: 10px; padding: 10px; background-color: #f9f9f9; border-left: 4px solid #4CAF50;">
+            <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hHP1s7EAAAAJ&citation_for_view=hHP1s7EAAAAJ:u5HHmVD_uO8C" style="color: #4CAF50; font-weight: bold;">Highlights</a>
+            <ul style="margin-top: 5px; padding-left: 20px;">
+                <li>Comprehensive review of PEDOT:PSS hydrogel applications in biomedicine.</li>
+                <li>Insights into electrical and mechanical properties enhancement.</li>
+                <li>Future research directions outlined with practical applications.</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
