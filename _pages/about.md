@@ -30,71 +30,31 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chin Chem Lett 2024</div><img src='images/cclet24109810.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<!-- [Recent progress in the biomedical application of PEDOT:PSS hydrogels](publications/cclet21109810.pdf) -->
-
-<a href="https://www.sciencedirect.com/science/article/pii/S1001841724003292"><span style="font-size: 1.1em;">Recent progress in the biomedical application of PEDOT:PSS hydrogels</span></a>
-
-October 2024 *Chinese Chemical Letters* 35(10):109810
-
-Binhan Zhao<sup>1</sup>, **Zheng Li**<sup>1</sup>, Lan Zheng<sup>1</sup>, Zhichao Ye, Yuyang Yuan, Shanshan Zhang, Bo Liang<sup>&#8224;</sup>, Tianyu Li<sup>&#8224;</sup>
-
-
-[**Highlights**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hHP1s7EAAAAJ&citation_for_view=hHP1s7EAAAAJ:u5HHmVD_uO8C) 
-<strong><span class='show_paper_citations' data='hHP1s7EAAAAJ:u5HHmVD_uO8C'></span></strong>
-- Test
-</div>
-</div>
-
 <div class='paper-box'>
-    <!-- 图片部分 -->
     <div class='paper-box-image'>
         <div>
             <div class="badge">Chin Chem Lett 2024</div>
             <img src='images/cclet24109810.png' alt="sym" width="100%">
         </div>
     </div>
-
-    <!-- 文字部分 -->
     <div class='paper-box-text' markdown="1">
-        <!-- 标题 -->
+
+        <!-- [Recent progress in the biomedical application of PEDOT:PSS hydrogels](publications/cclet21109810.pdf) -->
+
         <a href="https://www.sciencedirect.com/science/article/pii/S1001841724003292">
-            <span style="font-size: 1.2em; font-weight: bold;"> 
-                Recent Progress in the Biomedical Application of PEDOT:PSS Hydrogels
-            </span>
+            <span style="font-size: 1.1em;">Recent progress in the biomedical application of PEDOT:PSS hydrogels</span>
         </a>
 
-        <!-- 发表信息 -->
-        <p style="margin: 8px 0; color: gray;">
-            October 2024, <i>Chinese Chemical Letters</i>, 35(10):109810
-        </p>
+        October 2024 *Chinese Chemical Letters* 35(10):109810
 
-        <!-- 作者列表 -->
-        <p style="line-height: 1.6; margin-bottom: 10px;">
-            Binhan Zhao<sup>1</sup>, <b>Zheng Li</b><sup>1</sup>, Lan Zheng<sup>1</sup>, 
-            Zhichao Ye, Yuyang Yuan, Shanshan Zhang, 
-            Bo Liang<sup>&#8224;</sup>, Tianyu Li<sup>&#8224;</sup>
-        </p>
+        Binhan Zhao<sup>1</sup>, **Zheng Li**<sup>1</sup>, Lan Zheng<sup>1</sup>, Zhichao Ye, Yuyang Yuan, Shanshan Zhang, Bo Liang<sup>&#8224;</sup>, Tianyu Li<sup>&#8224;</sup>
 
-        <!-- Highlights 区域 -->
-        <div style="padding: 10px; background-color: #f9f9f9; border-left: 4px solid #4CAF50;">
-            <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hHP1s7EAAAAJ&citation_for_view=hHP1s7EAAAAJ:u5HHmVD_uO8C" 
-                style="color: #4CAF50; font-weight: bold;">
-                Highlights
-            </a>
-            <ul style="margin: 5px 0 0 20px; padding: 0; list-style-type: disc;">
-                <li>Comprehensive review of PEDOT:PSS hydrogel applications in biomedicine.</li>
-                <li>Insights into electrical and mechanical properties enhancement.</li>
-                <li>Future research directions outlined with practical applications.</li>
-            </ul>
-        </div>
+        [**Highlights**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hHP1s7EAAAAJ&citation_for_view=hHP1s7EAAAAJ:u5HHmVD_uO8C)
+        <strong><span class='show_paper_citations' data='hHP1s7EAAAAJ:u5HHmVD_uO8C'></span></strong>
+        - Test
     </div>
 </div>
 
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
