@@ -14,9 +14,13 @@
     font-weight: normal;
     font-style: normal; */
 }
+
+body {
+  font-family: "Cambria", "Georgia", serif;
+}
 .ai {
 	display:inline-block;
-	font:normal normal normal 14px/1 Academicons;
+	font:normal normal normal 14px/1 Cambria;
 	font-size:inherit;
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
