@@ -51,7 +51,8 @@ Binhan Zhao<sup>1</sup>, **Zheng Li**<sup>1</sup>, Lan Zheng<sup>1</sup>, Zhicha
 
 [**Highlights**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=hHP1s7EAAAAJ&citation_for_view=hHP1s7EAAAAJ:u5HHmVD_uO8C) 
 <strong><span class='show_paper_citations' data='hHP1s7EAAAAJ:u5HHmVD_uO8C'></span></strong>
-- Test
+- highlight the recent advances of PEDOT:PSS hydrogels, including the gelation methods and modification strategies
+- summarize their wide applications in different type of sensors and tissue engineering in detail
 </div>
 </div>
 
