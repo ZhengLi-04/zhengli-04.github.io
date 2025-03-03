@@ -21,7 +21,7 @@ Hi! I’m **Zheng Li**, an undergraduate student at **Zhejiang University**, maj
 
 My academic journey has been driven by a deep interest in **electrochemical biosensors**, **bioelectronics** and **wearable health monitoring systems**. I am studying at **Biosensor National Special Laboratory of Zhejiang University**, under the supervision of <a href="https://scholar.google.com/citations?user=wjQqDkgAAAAJ&hl=en">Dr. Bo Liang</a> and <a href="https://orcid.org/0000-0003-0725-6845">Dr. Tianyu Li</a>.
 
-I aspire to push the boundaries of biosensing and bioelectronics, developing next-generation technologies that bring real-time, accessible, and personalized health monitoring to everyday life. 🚀
+I aspire to push the boundaries of biosensing and bioelectronics, developing next-generation technologies that bring real-time, accessible and personalized health monitoring to everyday life! 🚀
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=hHP1s7EAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=hHP1s7EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
