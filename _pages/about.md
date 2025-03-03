@@ -50,14 +50,9 @@ Binhan Zhao<sup>1</sup>, **Zheng Li**<sup>1</sup>, Lan Zheng<sup>1</sup>, Zhicha
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-
-# 🔬 Research Projects
-
-
 # 🎖 Honors and Awards
-- *2023.10*, First-Prize ZJU Scholarship in the 2022-2023 Academic Year (Top 3%)
-- *2024.10*, Second-Prize ZJU Scholarship in the 2023-2024 Academic Year (Top 8%)
-- *2024.10*, BIOER Scholarship in the 2023-2024 Academic Year (Top 5/112)
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *2022.09 - 2026.06 (expected)*, undergraduate, College of Biomedical Engineering & Instrument Science, Zhejiang University. 
