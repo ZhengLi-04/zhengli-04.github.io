@@ -78,6 +78,21 @@ Entrepreneurship Training Program (project number: 2024R401047)</span>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aug. 2024 - Sept. 2024</div><img src='images/paperROS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a ><span style="font-size: 1.1em;">EaseNursing – A Smart Elderly Service Applet </span></a>
+
+<span style="color: gray; font-size: 0.9em">obtained China Computer Software Copyright (register number: 2024SR2003811)</span>
+
+**Project Leader**; *Director: Prof. Ning Deng*
+
+
+**Highlights**
+- optimized paper-based PEDOT:PSS electrode conductivity and improved sensor performance
+- developed a fully integrated paper-based ROS monitoring system with H<sub>2</sub>O<sub>2</sub> and O<sub>2</sub><sup>•−</sup> sensors, detection circuits, and a smartphone app for real-time diabetic ulcer wound assessment.
+</div>
+</div>
 
 <span class='anchor' id='-honers-and-awards'></span>
 
