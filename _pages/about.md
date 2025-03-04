@@ -55,6 +55,9 @@ Binhan Zhao<sup>1</sup>, **Zheng Li**<sup>1</sup>, Lan Zheng<sup>1</sup>, Zhicha
 - summarized their wide applications in various type of sensors and tissue engineering
 </div>
 </div>
+
+<br>
+
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <span class='anchor' id='-research-projects'></span>
@@ -63,6 +66,8 @@ Binhan Zhao<sup>1</sup>, **Zheng Li**<sup>1</sup>, Lan Zheng<sup>1</sup>, Zhicha
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Apr. 2024 - Present</div><img src='images/paperROS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+<br>
 
 <!-- [Recent progress in the biomedical application of PEDOT:PSS hydrogels](publications/cclet21109810.pdf) -->
 
