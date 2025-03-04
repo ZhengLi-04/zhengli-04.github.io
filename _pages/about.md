@@ -71,7 +71,6 @@ Entrepreneurship Training Program (project number: 2024R401047)</span>
 
 **Project Leader**; *Director: Dr. Bo Liang & Dr. Tianyu Li*
 
-
 **Highlights**
 - optimized paper-based PEDOT:PSS electrode conductivity and improved sensor performance
 - developed a fully integrated paper-based ROS monitoring system with H<sub>2</sub>O<sub>2</sub> and O<sub>2</sub><sup>•−</sup> sensors, detection circuits, and a smartphone app for real-time diabetic ulcer wound assessment.
@@ -87,10 +86,25 @@ Entrepreneurship Training Program (project number: 2024R401047)</span>
 
 **Project Leader**; *Director: Prof. Ning Deng*
 
-
 **Highlights**
 - developed a smart elderly service applet integrating health monitoring, remote care and emergency alarms for comprehensive elderly care.
 - designed the UI, functional modules and data storage structure, leading to the successful registration of a software copyright
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nov. 2024 - Dec. 2024</div><img src='images/ECG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a ><span style="font-size: 1.1em;">ECG Signal Depression Recognition Based on MATLAB and Machine Learning  </span></a>
+
+<span style="color: gray; font-size: 0.9em">obtained China Computer Software Copyright (register number: 2024SR2003811)</span>
+
+**Project Leader**; *Director: Prof. Jing Zheng*
+
+**Highlights**
+- developed a machine learning-based depression recognition model using ECG signals, incorporating signal denoising, feature extraction, and classification.
+- conducted ablation experiments to identify key ECG features correlated with depression, optimizing model accuracy through validation testing.
+
 </div>
 </div>
 
