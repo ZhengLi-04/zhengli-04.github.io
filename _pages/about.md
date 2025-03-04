@@ -74,9 +74,9 @@ Entrepreneurship Training Program (project number: 2024R401047)</span>
 **Project Leader**; *Director: Dr. Bo Liang & Dr. Tianyu Li*
 
 
-[**Highlights**]
-- reviewed the recent advances of PEDOT:PSS hydrogels, focusing on their gelation methods and modification strategies
-- summarized their wide applications in various type of sensors and tissue engineering
+**Highlights**
+- optimized paper-based PEDOT:PSS electrode conductivity and improved sensor performance
+- developed a fully integrated paper-based ROS monitoring system with H<sub>2</sub>O<sub>2</sub> and O<sub>2</sub><sup>•−</sup> sensors, detection circuits, and a smartphone app for real-time diabetic ulcer wound assessment.
 </div>
 </div>
 
