@@ -78,7 +78,7 @@ Entrepreneurship Training Program (project number: 2024R401047)</span>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aug. 2024 - Sept. 2024</div><img src='images/paperROS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aug. 2024 - Sept. 2024</div><img src='images/EaseNursing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a ><span style="font-size: 1.1em;">EaseNursing – A Smart Elderly Service Applet </span></a>
@@ -89,8 +89,8 @@ Entrepreneurship Training Program (project number: 2024R401047)</span>
 
 
 **Highlights**
-- optimized paper-based PEDOT:PSS electrode conductivity and improved sensor performance
-- developed a fully integrated paper-based ROS monitoring system with H<sub>2</sub>O<sub>2</sub> and O<sub>2</sub><sup>•−</sup> sensors, detection circuits, and a smartphone app for real-time diabetic ulcer wound assessment.
+- developed a smart elderly service applet integrating health monitoring, remote care and emergency alarms for comprehensive elderly care.
+- designed the UI, functional modules and data storage structure, leading to the successful registration of a software copyright
 </div>
 </div>
 
