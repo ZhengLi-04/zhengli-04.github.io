@@ -102,7 +102,7 @@ Entrepreneurship Training Program (project number: 2024R401047)</span>
 **Project Leader**; *Director: Prof. Jing Zheng*
 
 **Highlights**
-- developed a machine learning-based depression recognition model using ECG signals, incorporating signal denoising, feature extraction, and classification.
+- developed a machine learning-based depression recognition model using ECG signals, incorporating signal denoising, feature extraction and classification.
 - conducted ablation experiments to identify key ECG features correlated with depression, optimizing model accuracy through validation testing.
 
 </div>
