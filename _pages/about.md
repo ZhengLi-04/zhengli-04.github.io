@@ -38,8 +38,8 @@ I aspire to push the boundaries of biosensing and bioelectronics, developing nex
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chin Chem Lett 2024</div><img src='images/cclet24109810.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
+<!-- <div class='paper-box-text' markdown="1"> -->
+<div class='paper-box-text' >
 <!-- [Recent progress in the biomedical application of PEDOT:PSS hydrogels](publications/cclet21109810.pdf) -->
 
 <a href="https://www.sciencedirect.com/science/article/pii/S1001841724003292"><span style="font-size: 1.1em;">Recent progress in the biomedical application of PEDOT:PSS hydrogels</span></a>
@@ -56,7 +56,6 @@ Binhan Zhao<sup>1</sup>, **Zheng Li**<sup>1</sup>, Lan Zheng<sup>1</sup>, Zhicha
 </div>
 </div>
 
-<br>
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
@@ -67,7 +66,6 @@ Binhan Zhao<sup>1</sup>, **Zheng Li**<sup>1</sup>, Lan Zheng<sup>1</sup>, Zhicha
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Apr. 2024 - Present</div><img src='images/paperROS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<br>
 
 <!-- [Recent progress in the biomedical application of PEDOT:PSS hydrogels](publications/cclet21109810.pdf) -->
 
