@@ -97,7 +97,7 @@ Entrepreneurship Training Program (project number: 2024R401047)</span>
 
 <a ><span style="font-size: 1.1em;">ECG Signal Depression Recognition Based on MATLAB and Machine Learning  </span></a>
 
-<span style="color: gray; font-size: 0.9em">coursework on <em>Biomedical Signal Processing<em></span>
+<span style="color: gray; font-size: 0.9em">coursework on <em>Biomedical Signal Processing<em> </span>
 
 **Project Leader**; *Director: Prof. Jing Zheng*
 
